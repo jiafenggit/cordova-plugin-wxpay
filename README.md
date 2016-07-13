@@ -7,7 +7,7 @@
 # 1. Android客户端安装
 开发工程下执行以下命令导入本插件：
 
-	$ cordova plugin add http://www.corethink.cn/git/http/admin/cordova-plugin-wxpay
+	$ cordova plugin add http://www.corethink.cn/git/http/admin/cordova-plugin-wxpay.git
 
 已安装插件查看：
 

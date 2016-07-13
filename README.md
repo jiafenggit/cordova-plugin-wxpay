@@ -1,23 +1,18 @@
 # cordova-plugin-wxpay
+
 微信APP支付cordova,ionic插件(Android版，Ios版)
 
-* 2015.06.30 微信支付Android及IOS版集成，初步完成
-* 2015.06.26 微信Android SDK【2014.12.12】
 
-# 1. Android客户端安装
-开发工程下执行以下命令导入本插件：
+# 安装本插件
 
-	$ cordova plugin add http://www.corethink.cn/git/http/admin/cordova-plugin-wxpay.git
-
-已安装插件查看：
-
-	$cordova plugin list
+$ cordova plugin add http://www.corethink.cn/git/http/admin/cordova-plugin-wxpay.git
 
 
-执行以下命令删本插件：
+# 删除本插件：
 
-	# 【com.qdc.plugins.wxpay】是插件ID，不是插件文件夹名
-	$cordova plugin rm com.qdc.plugins.wxpay
+com.qdc.plugins.wxpay】是插件ID，不是插件文件夹名
+$cordova plugin rm com.qdc.plugins.wxpay
+
 
 ## 1.1 Android开发环境导入--Eclipse
 导入路径：开发工程->platform->android

@@ -5,7 +5,7 @@
 
 # 安装本插件
 
-$ cordova plugin add http://www.corethink.cn/git/http/admin/cordova-plugin-wxpay.git
+$ cordova plugin add http://git.corethink.cn/admin/cordova-plugin-wxpay.git
 
 # 删除本插件：
 
